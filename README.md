@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=synthwave)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbsgh9805)](https://solved.ac/dbsgh9805)
