@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-ffb13b?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/R-339933?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R-2496ED?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-000000?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp
 </p>
 
