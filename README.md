@@ -25,5 +25,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mysql-007396?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp
 </p>
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=synthwave)
+![Yunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunho-seo&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunho-seo&layout=Demo&theme=onedark)
