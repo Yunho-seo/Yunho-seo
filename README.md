@@ -24,5 +24,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-339933?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-000000?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp
+</p>
+
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunho-seo&layout=Demo&theme=onedark)
