@@ -15,5 +15,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
 </p>
-
-![Yunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunho-seo&show_icons=true&theme=transparent)
